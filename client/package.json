@@ -1,0 +1,12 @@
+{
+  "name": "grpc-101",
+  "version": "0.0.1",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.4.0",
+    "async": "^2.6.1",
+    "google-protobuf": "^3.6.1",
+    "grpc": "^1.18.0",
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0"
+  }
+}
